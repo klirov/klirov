@@ -5,7 +5,7 @@ On the backend, I can implement **anything with Node.js**, from APIs to real-tim
 
 ## 🛠 Tech
 
-Vue, Nuxt, TypeScript, Node.js, NestJS, Hono, SQL & NoSQL, Docker, Git, WebSockets
+Vue, Nuxt, TypeScript, Node.js, Nest, Hono, SQL & NoSQL, Docker, Git, WebSockets
 
 ## 📫 Contact
 
