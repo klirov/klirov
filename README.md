@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a Full-stack Web Developer
 
-Frontend-first developer focused on **Vue / Nuxt**, building clean and scalable web apps.  
+Frontend-first developer focused on **Vue**, building clean and scalable web apps.  
 On the backend, I can implement **anything with Node.js**, from APIs to real-time services.
 
 ## 🛠 Tech
